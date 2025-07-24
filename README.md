@@ -1,4 +1,5 @@
-![Sang's GitHub stats](https://github-readme-stats.vercel.app/api?username=sang2770&show_icons=true&theme=radical)
+![Sang's GitHub stats](https://github-readme-stats.vercel.app/api?username=sang2770&show_icons=true&theme=radical&theme=codeSTACKr)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sang2770&layout=compact&theme=radical)
 
 
 <!--
