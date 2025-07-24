@@ -1,9 +1,9 @@
 <p align="center">
   <a href="https://github.com/sang2770" rel="noopener noreferrer">
-    <img src="https://github-readme-stats.vercel.app/api?username=sang2770&show_icons=true&theme=radical&theme=gotham&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged&rank_icon=percentile&text_bold=false&include_all_commits=true" width="40%" />
+    <img src="https://github-readme-stats.vercel.app/api?username=sang2770&show_icons=true&theme=gotham&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged&rank_icon=percentile&text_bold=false&include_all_commits=true" width="40%" />
   </a>
   <a href="https://github.com/sang2770" rel="noopener noreferrer">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sang2770&layout=compact&theme=radical&theme=gotham" width="40%" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sang2770&layout=compact&theme=gotham&lang_counts=8" width="40%" />
   </a>
 </p>
 
