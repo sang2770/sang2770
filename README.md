@@ -1,9 +1,9 @@
 <p align="center">
   <a href="https://github.com/sang2770" rel="noopener noreferrer">
-    <img src="https://github-readme-stats.vercel.app/api?username=sang2770&show_icons=true&theme=radical&theme=codeSTACKr" width="46%" />
+    <img src="https://github-readme-stats.vercel.app/api?username=sang2770&show_icons=true&theme=radical&theme=codeSTACKr" width="40%" />
   </a>
   <a href="https://github.com/sang2770" rel="noopener noreferrer">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sang2770&layout=compact&theme=radical&theme=codeSTACKr" width="53%" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sang2770&layout=compact&theme=radical&theme=codeSTACKr" width="40%" />
   </a>
 </p>
 
