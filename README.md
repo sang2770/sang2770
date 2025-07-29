@@ -1,9 +1,9 @@
 ## Hi there 👋
 
 - My name is **Nguyễn Văn Sang**, and I'm a **Software Developer**.
-- 💼 Currently working at [LG Electronics Development Vietnam (LGEDV)].
-- 💻 My main tech stack includes **.NET** and **Angular**.
-- 📚 I love coding and do it every day!
+- 💼 Currently, I'm contributing my skills at **LG Electronics Development Vietnam (LGEDV)**.
+- 💻 My core tech stack includes **.NET**, **Angular**, and **Spring Boot**.
+- 📚 I have a passion for coding and actively practice algorithms every day!
 
 ---
 <p align="center">
