@@ -8,10 +8,10 @@
 ---
 <p align="center">
   <a href="https://github.com/sang2770" rel="noopener noreferrer">
-    <img src="https://github-readme-stats.vercel.app/api?username=sang2770&show_icons=true&theme=vision-friendly-dark&show_icons=true&show=reviews,discussions_started,prs_merged&rank_icon=percentile&text_bold=false&include_all_commits=true" width="42%" />
+    <img src="https://github-readme-stats-js4w.vercel.app/api?username=sang2770&show_icons=true&theme=vision-friendly-dark&show_icons=true&show=reviews,discussions_started,prs_merged&rank_icon=percentile&text_bold=false&include_all_commits=true" width="42%" />
   </a>
   <a href="https://github.com/sang2770" rel="noopener noreferrer">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sang2770&layout=compact&theme=vision-friendly-dark&langs_count=8" width="40%" />
+    <img src="https://github-readme-stats-js4w.vercel.app/api/top-langs/?username=sang2770&layout=compact&theme=vision-friendly-dark&langs_count=8" width="40%" />
   </a>
 </p>
 
