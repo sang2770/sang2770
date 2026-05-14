@@ -3,7 +3,15 @@
 - My name is **Nguyễn Văn Sang**, and I'm a **Software Developer**.
 - 💼 Currently, I'm contributing my skills at **LG Electronics Development Vietnam (LGEDV)**.
 - 💻 My core tech stack includes **.NET**, **Angular**, and **Spring Boot**.
-- 📚 I have a passion for coding and actively practice algorithms every day!
+
+### 🚀 Personal Skill Highlights
+
+- **Problem Solving:** Strong algorithmic thinking with daily coding practice.
+- **Backend Development:** Build clean, scalable APIs with **.NET** and **Spring Boot**.
+- **Frontend Development:** Develop responsive, user-friendly interfaces with **Angular**.
+- **System Mindset:** Focus on maintainable architecture, performance, and code quality.
+- **Team Collaboration:** Effective in cross-functional teamwork, code review, and agile delivery.
+- **Continuous Learning:** Quickly adapt to new technologies and engineering best practices.
 
 ---
 <p align="center">
